@@ -1,0 +1,14 @@
+RF01 – Calendário e previsão
+PessoaUsuaria; CicloMenstrual
+RF02 – Guia de higiene
+GuiaHigiene; RegistroUsoInsumo
+RF03 – Localizador de insumos
+PontoDistribuicao; Insumo
+RF04 – Diário de sintomas
+PessoaUsuaria; RegistroSintomas
+RF05 – Mitos vs. Verdades
+ConteudoEducativo
+RF06 – Modo offline
+SincronizacaoLocal; CicloMenstrual; GuiaHigiene
+Administração
+Administrador; PessoaUsuaria; Escola; PontoDistribuicao; ConteudoEducativo
