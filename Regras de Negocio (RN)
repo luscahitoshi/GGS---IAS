@@ -1,0 +1,5 @@
+RN01 – Inclusividade de Gênero — O sistema deve utilizar o termo “pessoas que menstruam” para incluir homens trans e pessoas não binárias, conforme diretrizes de direitos humanos. (Citação 5; Citação 6)
+RN02 – Alerta de Risco — Se o usuário registrar o uso do mesmo absorvente por mais de 6 a 8 horas, o sistema deve emitir um alerta automático sobre o risco de infecções. (Citação 2)
+RN03 – Triagem de Saúde — Caso o registro de dor (dismenorreia) seja classificado como “incapacitante”, o sistema deve recomendar a busca por uma Unidade Básica de Saúde (UBS). (Citação 2; Citação 5)
+RN04 – Gratuidade Absoluta — Nenhuma funcionalidade de auxílio ou localização de insumos pode ser cobrada, reforçando a natureza do sistema como ferramenta de política pública. (Citação 3; Citação 6)
+RN05 – Foco no Letramento — Informações sobre o ciclo devem ser apresentadas de forma cronológica e educativa, visando o autoconhecimento corporal desde a menarca. (Citação 4; Citação 8)
